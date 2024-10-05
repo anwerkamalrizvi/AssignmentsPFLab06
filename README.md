@@ -34,4 +34,4 @@ Input: 5 Output:
 Number is prime
 Series is = 0 1 1 2 3
 
-**Question #8:** Write a program to check whether a number is an Armstrong number or not. An Armstrong number is a number that is equal to the sum of cubes of its digits.
+**Question #7:** Write a program to check whether a number is an Armstrong number or not. An Armstrong number is a number that is equal to the sum of cubes of its digits.
